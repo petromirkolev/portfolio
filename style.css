@@ -1,0 +1,49 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Navigation styling */
+.navigation {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+
+.main {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+/* Arrow back style */
+.arrow-back {
+  position: absolute;
+  scale: 2;
+  left: 0;
+}
+/* Arro front style */
+.arrow-front {
+  position: absolute;
+  scale: 2;
+  right: 0;
+}
