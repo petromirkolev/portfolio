@@ -9,8 +9,12 @@
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
   height: 100vh;
+}
+.photo-container img {
+  width: 350px;
+  border-radius: 50%;
 }
 
 /*  */
